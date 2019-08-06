@@ -1,4 +1,5 @@
 def add(x,y):
-    return x+y
+    res=x+y
+    print(res)
   
 add(3,4)
